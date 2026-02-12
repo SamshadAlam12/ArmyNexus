@@ -115,7 +115,7 @@ Includes:
 
 Clone the repository:
 
-git clone https://github.com/your-username/army-nexus.git  
+git clone https://github.com/SamshadAlam12/ArmyNexus  
 cd army-nexus  
 
 Install dependencies:
@@ -178,8 +178,7 @@ Computer Science Engineering Student
 
 Add your deployed link here after hosting:
 
-https://army-nexus.vercel.app
-
+https://armynexus.netlify.appw
 ---
 
 ## ⭐ Final Note
